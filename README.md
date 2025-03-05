@@ -1,5 +1,13 @@
 # 🎨 Laravel Vuexy SAT Mass Downloader - Vuexy Admin
 
+<p align="center">
+    <a href="https://koneko.mx" target="_blank"> <img src="https://git.koneko.mx/Koneko-ST/koneko-st/raw/branch/main/logo-images/horizontal-05.png" width="400" alt="Koneko Soluciones Tecnológicas Logo"> </a> 
+</p>
+<p align="center">
+    <a href="https://koneko.mx"><img src="https://img.shields.io/badge/Website-koneko.mx-blue" alt="Sitio Web"></a> 
+    <a href="https://git.koneko.mx/koneko"><img src="https://img.shields.io/badge/Git%20Server-Koneko%20Git-orange" alt="Servidor Git"></a> 
+</p>
+
 ---
 
 ## 📌 Proyecto Privado
